@@ -1,0 +1,88 @@
+@charset "utf-8";
+/*
+Theme Name: Latinoware 2022
+Theme URI:
+Author: Luciano Lourenço
+Author URI: maddrum@gmail.com
+Description: Template criado para o site Latinoware 2022
+Version: 0.4.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital@1&display=swap');
+
+@import url('assets/css/core.css');
+@import url('assets/css/bootstrap-icons.css');
+@import url('assets/css/jquery.fancybox.min.css');
+@import url('assets/css/owl.carousel.min.css');
+
+/*Estilos dos modais da grade*/
+.row-header tr th{
+	text-align: center !important;
+}
+    tbody{
+        font-size: 86%;
+    }
+    .ritz .waffle a {
+        color: inherit;
+    }
+
+    .ritz .waffle .s2 {
+        background-color: #d9ead3;
+        text-align: center;
+        color: #000000;
+        white-space: normal;
+        overflow: hidden;
+        word-wrap: break-word;
+        direction: ltr;
+        padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s3 {
+        background-color: #f4cccc;
+        text-align: center;
+        color: #000000;
+        white-space: normal;
+        overflow: hidden;
+        word-wrap: break-word;
+        direction: ltr;
+        padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s0 {
+        background-color: #ffffff;
+        text-align: center;
+        font-weight: bold;
+        color: #000000;
+        font-size: 11px;
+        white-space: normal;
+        overflow: hidden;
+        word-wrap: break-word;
+        direction: ltr;
+        padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s1 {
+        background-color: #d9ead3;
+        text-align: center;
+        color: #000000;
+        white-space: normal;
+        overflow: hidden;
+        word-wrap: break-word;
+        direction: ltr;
+        padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s4 {
+        background-color: #ffffff;
+        text-align: left;
+        color: #000000;
+        white-space: nowrap;
+        overflow: hidden;
+        direction: ltr;
+        padding: 2px 3px 2px 3px;
+    }
+
